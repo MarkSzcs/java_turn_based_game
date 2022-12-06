@@ -1,0 +1,4 @@
+/.idea
+/strategy-game/target/
+*.iml
+.DS_Store
